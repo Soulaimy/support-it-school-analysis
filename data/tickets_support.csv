@@ -1,0 +1,11 @@
+ticket_id,date,category,priority,resolution_time,status
+T001,2026-01-02,Wifi,Haute,4,Résolu
+T002,2026-01-03,Compte,Haute,2,Résolu
+T003,2026-01-03,Imprimante,Moyenne,6,Résolu
+T004,2026-01-04,Teams,Haute,5,Résolu
+T005,2026-01-05,Wifi,Haute,3,Résolu
+T006,2026-01-06,Logiciel,Moyenne,8,Résolu
+T007,2026-01-06,PC,Haute,10,En cours
+T008,2026-01-07,ENT,Moyenne,4,Résolu
+T009,2026-01-08,Mot de passe,Basse,1,Résolu
+T010,2026-01-09,Wifi,Haute,7,Résolu

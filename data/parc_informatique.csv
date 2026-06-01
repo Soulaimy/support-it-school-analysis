@@ -1,0 +1,9 @@
+pc_id,model,state,loan_date,return_date,status,student,formation
+PC001,Dell Latitude,Bon,2026-01-01,2026-06-01,Prêt,ETU001,Info
+PC002,HP ProBook,Moyen,2026-01-03,,En cours,ETU002,Data
+PC003,Lenovo ThinkPad,Bon,2026-01-05,2026-05-20,Rendu,ETU003,Marketing
+PC004,MacBook Air,Bon,2026-01-07,,En cours,ETU004,Design
+PC005,Dell Latitude,Mauvais,2026-01-10,,En cours,ETU005,Data
+PC006,HP ProBook,Bon,2026-01-12,2026-06-12,Prêt,ETU006,Info
+PC007,Lenovo ThinkPad,Bon,2026-01-15,,En cours,ETU007,Data
+PC008,MacBook Air,Moyen,2026-01-18,2026-05-30,Rendu,ETU008,Design
